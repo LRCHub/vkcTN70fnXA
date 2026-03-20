@@ -1,0 +1,144 @@
+{
+  "version": 1,
+  "base_track": "ファンタジー",
+  "base_artist": "SEKAI NO OWARI",
+  "createdAt": "2026-03-20T08:46:08.490159Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "ファンタジー",
+      "artist": "Picasso",
+      "has_synced": true,
+      "path": "select/01_ファンタジー_Picasso.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "ファンタジー",
+      "artist": "ピカソ",
+      "has_synced": true,
+      "path": "select/02_ファンタジー_ピカソ.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "ストリート・ファンタジー",
+      "artist": "中山美穂",
+      "has_synced": false,
+      "path": "select/03_ストリート・ファンタジー_中山美穂.txt"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "ファンタジー",
+      "artist": "SEKAI NO OWARI",
+      "has_synced": true,
+      "path": "select/04_ファンタジー_SEKAI_NO_OWARI.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "ペガサス幻想 (ファンタジー) (TV Size S.E.Mix)",
+      "artist": "聖闘士星矢",
+      "has_synced": true,
+      "path": "select/05_ペガサス幻想_(ファンタジー)_(TV_Size_S.E.Mix)_聖闘士星矢.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "ペガサス幻想 (ファンタジー) [instrumental] [full size]",
+      "artist": "聖闘士星矢",
+      "has_synced": true,
+      "path": "select/06_ペガサス幻想_(ファンタジー)_[instrumental]_[full_size]_聖闘士星矢.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "ファンタジー",
+      "artist": "家入レオ",
+      "has_synced": true,
+      "path": "select/07_ファンタジー_家入レオ.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "ファンタジー",
+      "artist": "SEKAI NO OWARI",
+      "has_synced": true,
+      "path": "select/08_ファンタジー_SEKAI_NO_OWARI.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "ペガサス幻想 (ファンタジー) (TV Size)",
+      "artist": "聖闘士星矢",
+      "has_synced": true,
+      "path": "select/09_ペガサス幻想_(ファンタジー)_(TV_Size)_聖闘士星矢.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "ファンタジー",
+      "artist": "岩崎宏美",
+      "has_synced": true,
+      "path": "select/10_ファンタジー_岩崎宏美.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "アフリカン・ファンタジー",
+      "artist": "藤村美树",
+      "has_synced": true,
+      "path": "select/11_アフリカン・ファンタジー_藤村美树.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "ファンタジー",
+      "artist": "世界の終わり",
+      "has_synced": false,
+      "path": "select/12_ファンタジー_世界の終わり.txt"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Fantasy (ファンタジー)",
+      "artist": "Hiromi Iwasaki",
+      "has_synced": true,
+      "path": "select/13_Fantasy_(ファンタジー)_Hiromi_Iwasaki.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "ファンタジー",
+      "artist": "Leo Ieiri",
+      "has_synced": true,
+      "path": "select/14_ファンタジー_Leo_Ieiri.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "ラジオ・ファンタジー",
+      "artist": "Ippu-Do",
+      "has_synced": true,
+      "path": "select/15_ラジオ・ファンタジー_Ippu-Do.lrc"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "ファンタジー",
+      "artist": "Hiromi Iwasaki",
+      "has_synced": true,
+      "path": "select/16_ファンタジー_Hiromi_Iwasaki.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "ファンタジー",
+      "artist": "SEKAI NO OWARI",
+      "has_synced": false,
+      "path": "select/pl_01_ファンタジー_SEKAI_NO_OWARI.txt"
+    }
+  ]
+}
